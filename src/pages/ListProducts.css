@@ -1,0 +1,132 @@
+.page1 {
+  top: 0;
+  position: absolute;
+  width: 100%;
+  left: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title-name1 {
+  background: #fff;
+  width: 100%;
+  position: absolute;
+  padding: 15px 40px;
+}
+
+.product {
+  color: #212121;
+  font-family: Mulish;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  cursor: pointer;
+  line-height: normal;
+}
+.pages {
+  top: 75px;
+  position: absolute;
+  width: 100%;
+  bottom: 75px;
+}
+.box {
+  max-width: 1340px;
+  width: 100vmax;
+  height: auto;
+  max-height: 540px;
+  margin: 40px;
+  position: absolute;
+  padding: 40px 25px;
+  background: #fff;
+  overflow: auto;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+.button-add {
+  border-radius: 6px;
+  background: #1bc58d;
+  display: inline-flex;
+  padding: 10px 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 605px;
+  left: 40px;
+}
+.footer_title {
+  color: #80809b;
+  text-align: right;
+  font-family: Mulish;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72%; /* 10.08px */
+  right: 155px;
+  position: absolute;
+  top: 610px;
+}
+
+.list-head {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-title {
+  color: #212121;
+  font-family: Mulish;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 72%; /* 11.52px */
+}
+
+.list-search {
+  width: 250px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #f7f7ff;
+  text-align: left;
+  padding: 15px;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+}
+thead {
+  padding-bottom: 12px;
+}
+
+tbody tr.td:last-of-type {
+  border-bottom: 2px solid #000000;
+}
+tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+td:last-child {
+  display: flex;
+  gap: 10px;
+  outline: none;
+  background-color: transparent;
+}
+
+.button-editdelete {
+  border: none;
+  background: none;
+  cursor: pointer;
+}

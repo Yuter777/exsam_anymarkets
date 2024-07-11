@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": "1029384756",
+      "name": "Herbal Shampoo",
+      "code": "HS2002",
+      "brand": "NatureEssence",
+      "price": 8.99,
+      "priceInSale": 6.99,
+      "description": "A shampoo made with natural herbs for healthy hair."
+    },
+    {
+      "name": "Vitamin C Serul",
+      "brand": "SkinGlow",
+      "code": "VS3003",
+      "description": "A serum with high concentration of Vitamin C for radiant skin.",
+      "price": 24.99,
+      "priceInSale": 19.99,
+      "id": "3847561920"
+    },
+    {
+      "id": "5647382910",
+      "name": "Protein Bar",
+      "code": "PB4004",
+      "brand": "FitFuel",
+      "price": 1.99,
+      "priceInSale": 1.49,
+      "description": "A protein bar with 20g of protein, ideal for post-workout recovery."
+    },
+    {
+      "id": "9182736450",
+      "name": "Omega-3 Capsules",
+      "code": "OC5005",
+      "brand": "HealthBoost",
+      "price": 15.99,
+      "priceInSale": 12.99,
+      "description": "Omega-3 fatty acid capsules for heart and brain health."
+    },
+    {
+      "id": "1728394056",
+      "name": "Aloe Vera Gel",
+      "code": "AV6006",
+      "brand": "PureNature",
+      "price": 7.99,
+      "priceInSale": 5.99,
+      "description": "Aloe Vera gel for soothing and moisturizing skin."
+    },
+    {
+      "id": "2837465910",
+      "name": "Multivitamin Tablets",
+      "code": "MT7007",
+      "brand": "VitaLife",
+      "price": 12.99,
+      "priceInSale": 9.99,
+      "description": "Multivitamin tablets to support overall health and wellness."
+    },
+    {
+      "id": "4657382910",
+      "name": "Green Tea Extract",
+      "code": "GT8008",
+      "brand": "HerbalZen",
+      "price": 14.99,
+      "priceInSale": 11.99,
+      "description": "Green tea extract capsules for metabolism and weight management."
+    },
+    {
+      "id": "3748291056",
+      "name": "Organic Honey",
+      "code": "OH9009",
+      "brand": "BeeNatural",
+      "price": 9.99,
+      "priceInSale": 7.99,
+      "description": "Pure organic "
+    },
+    {
+      "id": "5674839201",
+      "name": "Calcium Supplements",
+      "code": "CS1010",
+      "brand": "BoneStrength",
+      "price": 11.99,
+      "priceInSale": 8.99,
+      "description": "Calcium supplements "
+    },
+    {
+      "id": "1",
+      "name": "awfe",
+      "brand": "raer",
+      "code": "3242",
+      "price": "2314",
+      "priceInSale": "1234",
+      "description": "afwe"
+    },
+    {
+      "id": "1",
+      "name": "fewfw",
+      "brand": "2324",
+      "code": "2413",
+      "price": "1423",
+      "priceInSale": "4123",
+      "description": "4123"
+    },
+    {
+      "id": "1",
+      "name": "dwq",
+      "brand": "23",
+      "code": "32",
+      "price": "23",
+      "priceInSale": "23",
+      "description": "23"
+    },
+    {
+      "id": "1",
+      "name": "daw`iug`765`",
+      "brand": "jgjh",
+      "code": "",
+      "price": "",
+      "priceInSale": "609",
+      "description": "876"
+    },
+    {
+      "id": "14",
+      "name": "dw",
+      "brand": "qw",
+      "code": "",
+      "price": "",
+      "priceInSale": "",
+      "description": "qw"
+    },
+    {
+      "id": "1",
+      "name": "dqwd",
+      "brand": "dqw",
+      "code": "",
+      "price": "",
+      "priceInSale": "",
+      "description": "dq"
+    }
+  ]
+}
